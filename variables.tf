@@ -36,7 +36,7 @@ variable "service_targets" {
                 "Microsoft-VirtualMachine",
                 "Microsoft-VirtualMachineScaleSet",
                 "Microsoft-AzureKubernetesServiceChaosMesh",
-                "Microsoft-Keyvault",
+                "Microsoft-KeyVault",
               ],
               service_target.target_type
             )
